@@ -46,3 +46,6 @@ footer{
     justify-content:center ;
     font-style: italic;
 }
+a{
+    text-decoration: none;
+}
