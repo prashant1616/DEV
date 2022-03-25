@@ -38,3 +38,11 @@ article{
 p{
     font-size:1.5rem;
 }
+footer{
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content:center ;
+    font-style: italic;
+}
