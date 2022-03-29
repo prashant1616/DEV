@@ -60,5 +60,5 @@ else{
 //const keyword
 // const c=2;
   
-// const c =2 ;  //no decleration
-// a=hello     //no reassigning
+// const c =2 ;  //no redeclaration allowed
+// a=hello     //no reassigning allowed
